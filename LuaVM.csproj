@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
+  </PropertyGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="echo 生成lua字节码&#xD;&#xA;call $(ProjectDir)\genLuaObj.bat" />
+  </Target>
+
+</Project>

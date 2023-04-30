@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LuaVM": {
+      "commandName": "Project",
+      "commandLineArgs": "$(ProjectDir)\\luac.out"
+    }
+  }
+}

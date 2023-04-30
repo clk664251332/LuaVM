@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAzOPFUyZjEB2tw7mUA1F2kmROo5vNd28gBMjZ5Flo3i6XqsKJlmyTeREJ7S3TtHuGB1Fnuf1nR0WPh21HYHrQ==",
+  "success": true,
+  "projectFilePath": "D:\\UnityProject\\LuaVM\\LuaVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clkchen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\clkchen\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\clkchen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\clkchen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

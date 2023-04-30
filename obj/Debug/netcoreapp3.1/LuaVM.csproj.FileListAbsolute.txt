@@ -1,0 +1,14 @@
+D:\UnityProject\LuaVM\bin\Debug\netcoreapp3.1\LuaVM.exe
+D:\UnityProject\LuaVM\bin\Debug\netcoreapp3.1\LuaVM.deps.json
+D:\UnityProject\LuaVM\bin\Debug\netcoreapp3.1\LuaVM.runtimeconfig.json
+D:\UnityProject\LuaVM\bin\Debug\netcoreapp3.1\LuaVM.runtimeconfig.dev.json
+D:\UnityProject\LuaVM\bin\Debug\netcoreapp3.1\LuaVM.dll
+D:\UnityProject\LuaVM\bin\Debug\netcoreapp3.1\LuaVM.pdb
+D:\UnityProject\LuaVM\obj\Debug\netcoreapp3.1\LuaVM.AssemblyInfoInputs.cache
+D:\UnityProject\LuaVM\obj\Debug\netcoreapp3.1\LuaVM.AssemblyInfo.cs
+D:\UnityProject\LuaVM\obj\Debug\netcoreapp3.1\LuaVM.csproj.CoreCompileInputs.cache
+D:\UnityProject\LuaVM\obj\Debug\netcoreapp3.1\LuaVM.dll
+D:\UnityProject\LuaVM\obj\Debug\netcoreapp3.1\LuaVM.pdb
+D:\UnityProject\LuaVM\obj\Debug\netcoreapp3.1\LuaVM.genruntimeconfig.cache
+D:\UnityProject\LuaVM\obj\Debug\netcoreapp3.1\LuaVM.csproj.AssemblyReference.cache
+D:\UnityProject\LuaVM\obj\Debug\netcoreapp3.1\LuaVM.GeneratedMSBuildEditorConfig.editorconfig
